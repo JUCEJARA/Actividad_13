@@ -7,7 +7,7 @@
 
 #array
 
-
+ # ejercicio corresponde al 2 punto 4
 productos = ['bebida', 'chocolate', 'galletas', 'leche', 'cereal'] #key
 valor = [2000, 1200, 900, 750, 2200]  # value
 
